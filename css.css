@@ -19,3 +19,8 @@ color: cyan;
     color: rebeccapurple;
   }
   
+  a:hover {
+    text-decoration: none;
+    color: lime;
+  }
+  
