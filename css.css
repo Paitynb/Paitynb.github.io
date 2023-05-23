@@ -5,4 +5,8 @@ p, li {
     color: green;
     list-style-type: none
 }
+.special {
+    color: orange;
+    font-weight: bold;
+  }
   
