@@ -36,3 +36,8 @@ header h1 {
   .sidenav a:hover {
     background-color: #ddd;
     color: black;}
+
+    img {
+      object-fit: contain;
+      object-position: 50% 50%;
+    }
