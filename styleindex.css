@@ -1,7 +1,9 @@
 header h1 {
-    color:rgb(52, 107, 122);
+    color: white;
+    background-color:rgb(52, 107, 122);
   }
 
  h1 {
     color:#000000;
+    text-align: center;
   }
