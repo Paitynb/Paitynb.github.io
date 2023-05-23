@@ -1,7 +1,10 @@
 .header {
-  background-color: #194553;
+  background-color: #ADDFB3;
   text-align: center;
   padding: 20px;
+}
+header h1 {
+  color: black;
 }
 
  h1 {
