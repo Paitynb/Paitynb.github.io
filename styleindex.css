@@ -25,7 +25,6 @@ header h1 {
     overflow-x: hidden;
   }
   
-  
   /* Side navigation links */
   .sidenav a {
     color: black;
@@ -36,4 +35,4 @@ header h1 {
 
   .sidenav a:hover {
     background-color: #ddd;
-    color: black;
+    color: black;}
