@@ -1,5 +1,5 @@
 .header {
-  font-family: "Lucida Console", monospace; 
+  font-family: "Courier New", Courier, monospace; 
   background-color: #ADDFB3;
   text-align: center;
   padding: 20px;
@@ -26,7 +26,7 @@ header h1 {
   
   /* Side navigation links */
   .sidenav a {
-    font-family:"Lucida Console", monospace;
+    font-family:"Courier New", Courier, monospace;
     font-size: large;
     color: black;
     padding: 16px;
