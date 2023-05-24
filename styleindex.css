@@ -49,3 +49,8 @@ header h1 {
       width: 200px;
       object-fit: fit;
     }
+
+    p {
+      margin-right: 250px;
+      margin-left: 250px;
+    }
