@@ -21,8 +21,6 @@ header h1 {
     border: 1px dotted seagreen;
     background-color: #c7eacb;
     padding: 50px;
-    margin: auto;
-  
 
   p.content {
     font-family: 'Courier New', Courier, monospace;
@@ -54,8 +52,6 @@ header h1 {
     background-color: #d5e88a;
     color: black;}
   
-  
-
     /* img */
     img {
       display: block;
