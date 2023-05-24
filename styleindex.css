@@ -18,7 +18,6 @@ header h1 {
   }
 /* side navigation stuff*/
   .sidenav {
-    height: 100%;
     width: 200px;
     position: fixed;
     z-index: 1;
