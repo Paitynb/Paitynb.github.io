@@ -60,7 +60,7 @@ h1 {
     /* img */
     img {
       display: block;
-      border-radius: 50%;
+      clip-path: circle();
       margin: auto;
       width: 400px;
       height: 400px;
