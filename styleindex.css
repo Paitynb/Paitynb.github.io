@@ -11,7 +11,6 @@ header h1 {
   font-family: 'Courier New', Courier, monospace;
   color: black;
 }
-
  h1 {
     color:#000000;
     text-align: center;
@@ -42,6 +41,7 @@ header h1 {
     background-color: #d5e88a;
     color: black;}
 
+    /* img */
     .img {
       display: block;
       margin-left: auto;
@@ -55,8 +55,7 @@ header h1 {
 
     p {
       font-family: 'Courier New', Courier, monospace;
-      font-size: medium;
-      margin-left: 250px;
+      font-size: large;
     }
 
     .box1 {
