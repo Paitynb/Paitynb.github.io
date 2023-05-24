@@ -31,7 +31,7 @@ header h1 {
     color: black;
     padding: 16px;
     text-decoration: underline;
-    display: inline-block;
+    display: block;
   }
 
   .sidenav a:hover {
