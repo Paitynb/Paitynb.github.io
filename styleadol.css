@@ -51,7 +51,7 @@
         margin: 5px;
         border: 1px solid #ccc;
         float: left;
-        width: auto;
+        width: 200px;
       }
       
       div.gallery:hover {
@@ -59,8 +59,8 @@
       }
       
       div.gallery img {
-        width: 600px;
-        height: 400px;
+        width: 200px;
+        height: 200px;
         object-fit: contain;
       }
       
