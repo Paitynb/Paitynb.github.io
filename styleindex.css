@@ -21,10 +21,12 @@ header h1 {
     border: 1px dotted seagreen;
     background-color: #c7eacb;
     padding: 50px;
+  }
 
   p {
-    font-family:"Courier New",vCourier, monospace;
+    font-family:'Courier New', Courier, monospace;
     font-size: large;
+    color: black
   }
 
   .sidenav {
