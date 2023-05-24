@@ -34,6 +34,7 @@ h1 {
     font-size: large;
     color: black;
     padding: 16px;
+    top: auto;
     text-decoration: underline;
     display: block;
   }
