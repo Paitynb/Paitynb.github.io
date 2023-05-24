@@ -1,6 +1,5 @@
 .header {
-  position: fixed;
-  font-family: "Lucida Console", Courier, monospace;
+  font-family: "Lucida Console", monospace;
   background-color: #ADDFB3;
   text-align: center;
   padding: 20px;
