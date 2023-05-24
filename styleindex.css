@@ -50,7 +50,7 @@ header h1 {
       object-fit: contain;
     }
 
-    p {
+    p.content {
       font-family: 'Courier New', Courier, monospace;
       font-size: large;
     }
