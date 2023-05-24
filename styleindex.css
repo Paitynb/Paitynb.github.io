@@ -63,7 +63,7 @@ h1 {
       clip-path: circle();
       margin: auto;
       width: auto;
-      height: 600px;
+      height: 400px;
       object-fit: contain;
     }
 
