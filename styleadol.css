@@ -14,6 +14,16 @@
       text-align: center;
     }
 
+    .sidenav {
+      height: 100%;
+      width: 200px;
+      position: fixed;
+      z-index: 1;
+      background-color: #d4f0d7;
+      overflow-x: hidden;
+    }
+    
+    /* Side navigation links */
     .sidenav a {
       font-family:"Courier New", Courier, monospace;
       font-size: large;
@@ -23,28 +33,9 @@
       left: 16px;
       text-decoration: underline;
       display: inline-block;
-
-      .sidenav a:hover {
-        background-color:#d5e88a;
-        color: black;}
-
-        section.gallery {
-          margin: 5px;
-          border: 1px solid #ccc;
-          float: left;
-          width: 180px;
-        }
-        
-        section.gallery:hover {
-          border: 1px solid #777;
-        }
-        
-        section.gallery img {
-          width: 100%;
-          height: auto;
-        }
-        
-        section.desc {
-          padding: 15px;
-          text-align: center;
-        }
+    }
+  
+    .sidenav a:hover {
+      background-color: #d5e88a;
+      color: black;}
+  
