@@ -22,8 +22,8 @@ header h1 {
     background-color: #c7eacb;
     padding: 50px;
 
-  p.content {
-    font-family: 'Courier New', Courier, monospace;
+  p {
+    font-family:"Courier New",vCourier, monospace;
     font-size: large;
   }
 
