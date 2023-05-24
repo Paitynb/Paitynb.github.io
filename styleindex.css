@@ -45,8 +45,8 @@ header h1 {
       display: block;
       border-radius: 75%;
       margin: auto;
-      width: 400px;
-      height:400px;
+      width: auto;
+      height 400px;
       object-fit: contain;
     }
 
