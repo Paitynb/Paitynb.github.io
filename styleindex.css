@@ -4,6 +4,7 @@
   font-family: "Courier New", Courier, monospace; 
   background-color: #addfb3;
   text-align: center;
+  margin: 200px;
   padding: 20px;
 }
 header h1 {
@@ -60,5 +61,4 @@ header h1 {
       border: 1px dotted seagreen;
       background-color: #c7eacb;
       padding: 50px;
-      margin: 50px auto 50px auto;
-    }
+      margin-left: 200px;
