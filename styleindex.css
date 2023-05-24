@@ -38,6 +38,7 @@ header h1 {
 
     img {
       width: 400px;
+      border-radius: 50%;
       object-fit: contain;
       object-position: 50% 50%;
     }
