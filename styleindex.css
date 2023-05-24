@@ -15,6 +15,19 @@ header h1 {
     color:#000000;
     text-align: center;
   }
+  
+  .box1 {
+    width: 600px;
+    border: 1px dotted seagreen;
+    background-color: #c7eacb;
+    padding: 50px;
+    margin-left: 200px;
+  
+
+  p.content {
+    font-family: 'Courier New', Courier, monospace;
+    font-size: large;
+  }
 
   .sidenav {
     height: 100%;
@@ -52,14 +65,3 @@ header h1 {
       object-fit: contain;
     }
 
-    p.content {
-      font-family: 'Courier New', Courier, monospace;
-      font-size: large;
-    }
-
-    .box1 {
-      width: 600px;
-      border: 1px dotted seagreen;
-      background-color: #c7eacb;
-      padding: 50px;
-      margin-left: 200px;
