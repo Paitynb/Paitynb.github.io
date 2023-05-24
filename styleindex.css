@@ -15,19 +15,6 @@ header h1 {
     color:#000000;
     text-align: center;
   }
-  
-  .box1 {
-    width: 600px;
-    border: 1px dotted seagreen;
-    background-color: #c7eacb;
-    padding: 50px;
-  }
-
-  p {
-    font-family:'Courier New', Courier, monospace;
-    font-size: large;
-    color: black
-  }
 
   .sidenav {
     height: 100%;
@@ -54,6 +41,19 @@ header h1 {
     background-color: #d5e88a;
     color: black;}
   
+    .box1 {
+      width: 600px;
+      border: 1px dotted seagreen;
+      background-color: #c7eacb;
+      padding: 50px;
+    }
+  
+    p {
+      font-family:'Courier New', Courier, monospace;
+      font-size: large;
+      color: black
+    }
+     
     /* img */
     img {
       display: block;
@@ -63,4 +63,5 @@ header h1 {
       height: 400px;
       object-fit: contain;
     }
+
 
