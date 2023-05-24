@@ -62,7 +62,7 @@ h1 {
       display: block;
       clip-path: circle();
       margin: auto;
-      width: 400px;
+      width: 300px;
       height: 400px;
       object-fit: contain;
     }
