@@ -16,10 +16,10 @@ header h1 {
   }
 /* side navigation stuff*/
   .sidenav {
+    height: 100%;
     width: 200px;
     position: fixed;
     z-index: 1;
-    left: 26px;
     background-color: #d4f0d7;
     overflow-x: hidden;
   }
