@@ -48,10 +48,16 @@ header h1 {
       border-radius: 75% ;
       width: 400px;
       height:400px;
-      object-fit: fit;
+      object-fit: contain;
     }
 
     p {
       margin-right: 250px;
       margin-left: 250px;
+    }
+
+    .column.middle {
+      -webkit-flex: 2;
+      -ms-flex: 2;
+      flex: 2;
     }
