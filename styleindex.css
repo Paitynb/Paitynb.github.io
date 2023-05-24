@@ -44,7 +44,7 @@ header h1 {
     img {
       display: block;
       border-radius: 75%;
-      margin: auto;
+      float: center;
       width: 400px;
       height: 400px;
       object-fit: contain;
