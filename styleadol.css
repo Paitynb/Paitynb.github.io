@@ -23,3 +23,7 @@
       left: 16px;
       text-decoration: underline;
       display: inline-block;
+
+      .sidenav a:hover {
+        background-color: #d5e88a;
+        color: black;}

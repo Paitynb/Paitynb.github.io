@@ -19,3 +19,18 @@
         margin-right: 250px;
         margin-left: 250px;
       }
+
+      .sidenav a {
+        font-family:"Courier New", Courier, monospace;
+        font-size: large;
+        color: black;
+        padding: 16px;
+        top: 40px;
+        left: 16px;
+        text-decoration: underline;
+        display: inline-block;
+      }
+
+      .sidenav a:hover {
+        background-color: #d5e88a;
+        color: black;}
