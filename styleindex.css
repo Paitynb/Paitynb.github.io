@@ -2,7 +2,7 @@
 /* header ie.. background color*/
 .header {
   font-family: "Courier New", Courier, monospace; 
-  background-color: #addfb3
+  background-color: #addfb3;
   margin-left: 0px;
   text-align: center;
   padding: 20px;
@@ -65,5 +65,5 @@ header h1 {
       border: 15px solid green;
       background-color: ##c7eacb;
       padding: 50px;
-      margin: 50%;
+      margin: 250px 250px 250px 250px;
     }
