@@ -67,7 +67,7 @@ h1 {
     /* img */
     img {
       display: inline-block;
-      border-radius: 50%;
+      clip-path: circle();
       margin-right: auto;
       margin-left: auto;
       width: auto;
