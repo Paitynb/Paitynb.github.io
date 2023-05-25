@@ -12,7 +12,7 @@ header h1 {
   color: black;
 }
 
-h1 {
+article h1 {
   font-family:'Courier New', Courier, monospace;
     color:#000000;
     text-align: center;
