@@ -42,6 +42,15 @@
       background-color: #d5e88a;
       color: black;}
       
+      .box1
+      {margin-left: 200px;
+        margin-top: 25px;
+        width: auto;
+        border: 5px dotted #c7eacb;
+        background-color: #addfb3;
+        padding: 50px;
+      }
+      
       div.gallery {
         width: auto;
         background-color: white;
