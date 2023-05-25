@@ -19,7 +19,7 @@ h1 {
 h1.above {
   font-family:'Courier New', Courier, monospace;
   color: #235d46;
-
+  text-align: center;
 }
   .sidenav {
     height: 100%;
