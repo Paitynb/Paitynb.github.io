@@ -68,7 +68,8 @@ h1 {
     img {
       display: inline-block;
       clip-path: circle();
-      margin: auto;
+      margin-right: auto;
+      margin-left: auto;
       width: auto;
       height: 400px;
       object-fit: contain;
