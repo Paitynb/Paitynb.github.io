@@ -27,6 +27,13 @@
       overflow-x: hidden;
     }
     
+    p.sidenav {
+        font-family:"Courier New", Courier, monospace;
+      font-size: large;
+      color: black;
+      padding: 16px;
+      }
+      
     /* Side navigation links */
     .sidenav a {
       font-family:"Courier New", Courier, monospace;

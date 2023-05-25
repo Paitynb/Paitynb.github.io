@@ -51,6 +51,13 @@ h1 {
       padding: 50px;
     }
   
+    p.sidenav {
+      font-family:"Courier New", Courier, monospace;
+    font-size: large;
+    color: black;
+    padding: 16px;
+    }
+   
     p {
       font-family:'Courier New', Courier, monospace;
       font-size: large;
