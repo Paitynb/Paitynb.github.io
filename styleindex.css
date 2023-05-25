@@ -70,6 +70,7 @@ h1 {
       clip-path: circle();
       margin-right: auto;
       margin-left: auto;
+      text-align: center;
       width: auto;
       height: 400px;
       object-fit: contain;
