@@ -59,7 +59,7 @@ h1 {
      
     /* img */
     img {
-      display: block;
+      display: flex;
       clip-path: circle();
       margin: auto;
       width: auto;
